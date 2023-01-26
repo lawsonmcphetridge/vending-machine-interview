@@ -1,0 +1,26 @@
+{
+  "name": "vending-machine-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+    
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawsonmcphetridge/vending-machine-interview.git"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawsonmcphetridge/vending-machine-interview/issues"
+  },
+  "homepage": "https://github.com/lawsonmcphetridge/vending-machine-interview#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
